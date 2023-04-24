@@ -26,3 +26,5 @@ You can see the html used by either clicking on the gitHub link or by inspecting
 
 Here are the websites I've referenced:  
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript  
+https://momentjs.com/docs/#/parsing/string-format/  

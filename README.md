@@ -16,8 +16,8 @@ No installations needed, but will need access to final project link and github. 
 
 To see the final project please see the links below:
 
-GitHub link: https://github.com/luxardOri/Week-5-Challenge/  
-Final project link: https://luxardori.github.io/Week-5-Challenge/
+GitHub link: https://github.com/luxardOri/05_work-day-scheduler  
+Final project link: https://luxardori.github.io/05_work-day-scheduler
 
 You can see the html used by either clicking on the gitHub link or by inspecting the final project link.
 
